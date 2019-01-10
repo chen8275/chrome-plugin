@@ -1,11 +1,6 @@
----
-title: chrome插件调用接口打印在浏览器console中
-date: 2018-12-30
-categories: [Javascript,Ajax,JSON]
-tags: [Javascript,Ajax]
----
+### chrome-plugin
 
-
+> 将api log集成在浏览器中
 
 参考
 
